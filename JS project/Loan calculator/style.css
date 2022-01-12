@@ -1,0 +1,23 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(209, 158, 158);
+}
+.container{
+    width: 400px;
+    height: 450px;
+    background-color: rgb(224, 79, 79);
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%) translateY(-50%);
+    color: white;
+    padding: 20px 0 0 100px;
+    border-radius: 50px;
+}
+
+input{
+    width: 80%;
+    padding: 8px;
+    margin-top: 10px;
+    border: none;
+}
